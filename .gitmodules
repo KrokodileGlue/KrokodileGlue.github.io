@@ -1,0 +1,3 @@
+[submodule "tetrjs"]
+	path = tetrjs
+	url = https://github.com/KrokodileGlue/tetrjs
